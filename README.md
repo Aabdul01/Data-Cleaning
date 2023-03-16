@@ -8,18 +8,18 @@ It calculates the discount and discount percentage for each order line and adds 
 
 The notebook then proceeds to perform various analyses on the data, including:
 
--A scatter plot of SKU vs. discount percentage
--A time series plot of discount totals by year and month
--A horizontal bar chart of discounts by month
--A bar chart of the top 10 most discounted brands
--A bar chart of the top 10 most ordered products
--A time series plot of discounts between November and December 2017
--A bar chart of average discounts by brand for November and December 2017
--A time series plot of discounts between June and July 2017
--A function for categorizing products based on their name and description
--A horizontal bar chart of the top 10 most discounted product categories
--A horizontal bar chart of the top 10 most expensive product categories
--A horizontal bar chart of the top 10 product categories by revenue
+- A scatter plot of SKU vs. discount percentage
+- A time series plot of discount totals by year and month
+- A horizontal bar chart of discounts by month
+- A bar chart of the top 10 most discounted brands
+- A bar chart of the top 10 most ordered products
+- A time series plot of discounts between November and December 2017
+- A bar chart of average discounts by brand for November and December 2017
+- A time series plot of discounts between June and July 2017
+- A function for categorizing products based on their name and description
+- A horizontal bar chart of the top 10 most discounted product categories
+- A horizontal bar chart of the top 10 most expensive product categories
+- A horizontal bar chart of the top 10 product categories by revenue
 
 
 This code should be helpful for anyone who wants to analyze sales data and understand trends in customer behavior.
